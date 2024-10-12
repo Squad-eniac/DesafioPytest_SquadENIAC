@@ -4,10 +4,13 @@
 
 ### 📜 Descrição
 
-- [COMPLETAR AQUI]
-  
+### Descrição do Projeto
 
+Este projeto foi desenvolvido com base em uma série de cursos da Microsoft voltados para a prática de testes automatizados em Python. O objetivo era aprender e aplicar os conceitos fundamentais e avançados de testes utilizando o framework Pytest. A equipe seguiu o conteúdo proposto nos cursos e realizou os exercícios práticos em conjunto, desenvolvendo habilidades progressivas ao longo das etapas. Abaixo estão os cursos utilizados como base para o projeto:
 
+- [Introdução a testes no Python](https://learn.microsoft.com/pt-br/training/modules/python-get-started-testing/)
+- [Fazer testes com Pytest](https://learn.microsoft.com/pt-br/training/modules/test-python-with-pytest/)
+- [Teste Avançado com Pytest](https://learn.microsoft.com/pt-br/training/modules/python-advanced-pytest/)
 
 ## 👥 SQUAD ENIAC - Integrantes 
 
@@ -23,6 +26,14 @@
 
 ### 🤝 Divisão das Tarefas
 
-- [COMPLETAR AQUI]
+Este projeto foi desenvolvido em colaboração, com a equipe distribuindo as responsabilidades de forma eficiente. Abaixo, detalhamos a participação de cada membro nas diferentes etapas relacionadas ao desenvolvimento de funções e testes em Python:
 
+#### Introdução aos Testes em Python
+**Responsáveis:** Marina e Kássia
+
+#### Desenvolvimento de Testes com Pytest
+**Responsáveis:** Carol, Fabiana e Ana Julia
+
+#### Testes Avançados com Pytest
+**Responsável:** Rosana
 
