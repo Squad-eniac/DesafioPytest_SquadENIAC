@@ -9,8 +9,8 @@ def str_to_bool(value):
     except AttributeError:
         raise AttributeError(f'{value} deve ser uma string')
 
-    true_values = ['y', 'yes']
-    false_values = ['n', 'no']
+    true_values = ['y', 'yes', '1']
+    false_values = ['n', 'no', '0']
 
     if value in true_values:
         return True
