@@ -35,5 +35,5 @@ Este projeto foi desenvolvido em colaboração, com a equipe distribuindo as res
 **Responsáveis:** Carol, Fabiana e Ana Julia
 
 #### Testes Avançados com Pytest
-**Responsável:** Rosana
+**Responsável:** Rosana, Laysa e Angélica
 
